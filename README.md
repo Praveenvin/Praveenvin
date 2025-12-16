@@ -1,83 +1,132 @@
-# 👋 Hi, I’m Praveen V
+# 👋 Hey there! I'm Praveen V
 
-🎓 Final-year Computer Science Engineering (AIML) student  
-💻 Aspiring Software Developer | AI & ML Enthusiast  
-📍 Bengaluru, India
-
----
-
-## 🧠 About Me
-
-I am a final-year CSE (AIML) undergraduate with a strong interest in **software development, automation, and AI-driven systems**. I enjoy building real-world projects that solve practical problems and improve user experience.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=520&lines=Aspiring+Software+Developer;AI+%26+ML+Enthusiast;Building+Real-World+Intelligent+Systems+🚀" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🚀 Projects
+## 💫 About Me
+Hi, I'm **Praveen V**  
+Aspiring Software Developer | AI & ML Enthusiast  
 
-### 🔹 Autovate — AI-Driven DevOps Automation
-- AI-powered system automating DevOps workflows  
-- Code analysis, test generation, and deployment validation  
-- Focused on scalability and developer productivity  
+I build **practical, intelligent, and user-focused software solutions** using  
+modern web technologies and machine learning.
+
+Currently pursuing **B.E. in Computer Science (AI & ML)** at  
+**A.M.C. Engineering College, Bengaluru**.
+
+> “Learning by building, growing by solving.” ⚡  
+
+---
+
+## 🌐 Connect with Me
+<p align="center">
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/praveen-v-a75b5425a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <!-- Email -->
+  <a href="mailto:pravinwin44@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <!-- Portfolio -->
+  <a href="https://praveen-v.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+
+</p>
+
+
+---
+
+## 🧠 What I’m Working On
+
+- 🤖 **Autovate** — AI-driven DevOps automation (Major Project)  
+- 👓 **Smart Glasses Navigation System** for visually impaired users  
+- 🌱 Strengthening skills in **full-stack development & ML basics**
+
+---
+
+## 💻 Tech Stack
+
+### 🧠 Languages
+[![Skills](https://skillicons.dev/icons?i=python,java,javascript)](https://skillicons.dev)
+
+### 🎨 Frontend
+[![Skills](https://skillicons.dev/icons?i=html,css,react,tailwind)](https://skillicons.dev)
+
+### 🛠 Backend & Tools
+[![Skills](https://skillicons.dev/icons?i=nodejs,git,github)](https://skillicons.dev)
+
+### 🗄 Databases & Cloud
+[![Skills](https://skillicons.dev/icons?i=mongodb,aws)](https://skillicons.dev)
+
+---
+
+## 🛠 Featured Projects
+
+### 🔹 Autovate — AI-Driven DevOps Automation *(Major Project)*
+- Automates code analysis, test generation & deployment validation
+- Focused on improving developer productivity using AI
 
 ### 🔹 Smart Glasses for Navigation & Assistance
-- Assistive system for visually impaired users  
-- Path guidance and obstacle avoidance using sensors  
-- Technologies: Python, OpenCV  
+- Assistive navigation system for visually impaired users
+- Path guidance & obstacle avoidance using sensors and AI
 
 ### 🔹 Agriwee — Crop Recommendation System
-- ML-based crop recommendation platform  
-- Analyzes soil, season, and market trends  
-- Technologies: Python, Machine Learning, MongoDB  
+- ML-based system analyzing soil, season & market trends
+- Helps farmers make data-driven crop decisions
 
 ---
 
 ## 💼 Experience
 
-**Full Stack Intern — Stalight Technology**  
-Mar 2025 – Aug 2025  
-- Built frontend components using HTML, CSS, and JavaScript  
-- Improved UI consistency and user experience  
-- Worked with Git and API workflows  
+**Full Stack Intern — Stalight Technology (Startup)**  
+📍 Bengaluru | *Mar 2025 – Aug 2025*
+
+- Developed frontend components using HTML, CSS & JavaScript  
+- Fixed UI inconsistencies and improved user experience  
+- Worked with Git, APIs, and full-stack workflows  
 
 ---
 
-## 🛠 Skills
+## 📊 GitHub Stats
 
-- **Languages:** Python, Java (Basics), JavaScript  
-- **Web:** HTML, CSS, JavaScript  
-- **Database:** MongoDB  
-- **Tools:** Git, GitHub, VS Code, OpenCV  
-- **ML:** Basic ML concepts and project experience  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Praveenvin&theme=dark&hide_border=true&show_icons=true" height="160"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Praveenvin&theme=dark&hide_border=true" height="160"/>
+</p>
 
----
-
-## 🎓 Education
-
-- **B.E. CSE (AIML)** — A.M.C. Engineering College | CGPA: 8.7  
-- **PUC (PCMB)** — Christ Junior College | 77%  
-- **SSLC** — S C K English Medium School | 90%  
-
----
-
-## 🏆 Certifications
-
-- AWS Academy Cloud Foundations  
-- Google Android Developer Certification  
-- Python Full Stack Development — AICTE  
-- AI-ML Virtual Internship — AICTE  
-- Data Engineering Virtual Internship — AICTE  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenvin&theme=dark&hide_border=true&layout=compact" height="140"/>
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
-- 📧 Email: pravinwin44@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/praveen-v-a75b5425a/  
-- 🌐 Portfolio: https://praveen-v.vercel.app  
-- 🧑‍💻 GitHub: https://github.com/Praveenvin  
+<p align="center">
+  <a href="https://www.linkedin.com/in/praveen-v-a75b5425a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:pravinwin44@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://praveen-v.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-⭐ Open to internships, entry-level roles, and collaborative projects.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Praveenvin&style=for-the-badge&color=00BFFF" />
+</p>
 
--->
+<p align="center">
+  <i>💡 Building intelligent software to solve real-world problems — one commit at a time</i>
+</p>
